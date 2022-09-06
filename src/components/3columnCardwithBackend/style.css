@@ -1,0 +1,49 @@
+#prodbtn button{
+    background-color: white !important;
+    color: black;
+    border: 5px solid white !important;
+} 
+#prodbtn{
+    border: none !important;
+    outline: none !important;
+}
+
+#prodbtn:hover{
+    border: none !important;
+    outline: none !important;
+}
+#prodbtn:active{
+    border: none !important;
+    outline: none !important;
+}
+#prodbtn:focus{
+    border: none !important;
+    outline: none !important;
+}
+
+#prodbtn button{
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+#prodbtn button:active{
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+#prodbtn .btn:focus{
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.prodbtn button .btn:focus{
+    background-color: white !important;
+    color: black;
+    border: 5px solid white;
+
+} 

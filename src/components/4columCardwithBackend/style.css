@@ -1,0 +1,22 @@
+.cardshadow .card-img-top {
+    width: 17rem;
+    /* height: 20rem; */
+    border: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+/* .cardshadow .card-title{
+    text-decoration: white;
+    margin-top: 1rem;
+}
+
+.cardshadow .prodbtn{
+    background: transparent;
+    color:white; 
+    background-color: none; 
+}
+.cardshadow .prodbtn .btn:active{
+    background-color: none; 
+} */

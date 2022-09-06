@@ -1,0 +1,85 @@
+#carousel_sub_box .card,.card-title,.card-body {
+    width: 52% !important;
+    height: auto !important;
+    
+}
+
+.carousel-inner-container{
+    position: relative;
+}
+
+.carousel-inner-block{
+    position: absolute;
+    bottom: 20%;
+    left: 16%;
+    color: white;
+}
+
+/* .carousel-inner-btn{
+
+} */
+
+.carousel-inner-block .carousel_heading{
+    font-family: Playfair Display !important;
+    font-size: 25px !important;
+    font-weight: 900 !important;
+    line-height: 23px !important;
+    letter-spacing: 0em !important;
+    text-align: left !important;
+}
+
+@media only screen and (min-width: 753px) and (max-width: 1640px) {
+    .carousel-inner-block .carousel_heading {
+        top: 30%;
+    
+    }
+  }
+
+/* .carousel-inner-block .carousel_heading{
+    
+} */
+/* 
+@media only screen and (min-width: 768px) and (max-width: 1440px) {
+    .carousel-inner-block .carousel_heading {
+    font-size: 20px !important;    font-weight: 900 !important;
+    line-height: 28px !important;
+    }
+  }
+  @media only screen and (min-width: 425) and (max-width: 768px) {
+    .carousel-inner-block .carousel_heading {
+    font-size: 15px !important;
+    font-weight: 900 !important;
+    line-height: 28px !important;
+    padding-top: 10px;
+    }
+    
+  }
+  @media only screen and (min-width: 370px) and (max-width: 425px) {
+    .carousel-inner-block .carousel_heading {
+    margin-top: 5%;
+    font-size: 10px !important;
+    font-weight: 900 !important;
+    line-height: 22px !important;
+        
+    
+    }
+
+    #read_more{
+        width: 50%;
+        height: 50%;
+    }
+    
+  } */
+
+  @media(max-width:1199px){
+   
+    .carousel-inner-container,.carousel-inner-block{
+      max-width: 450px;
+    }
+    .carousel-inner-block .carousel_heading {
+      margin-bottom: 70px;
+      font-size: 42px;
+    }
+  }
+
+

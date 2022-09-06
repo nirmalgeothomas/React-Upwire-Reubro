@@ -1,0 +1,79 @@
+.dropbutton button{
+    background-color: white !important;
+    color: rgb(255, 0, 0);
+    border: 5px solid white !important;
+} 
+.dropbutton{
+    border: none !important;
+    outline: none !important;
+}
+
+.dropbutton:hover{
+    border: none !important;
+    outline: none !important;
+}
+.dropbutton:active{
+    border: none !important;
+    outline: none !important;
+}
+.dropbutton:focus{
+    border: none !important;
+    outline: none !important;
+}
+
+.dropbutton button{
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.dropbutton button:active{
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.dropbutton .btn:focus{
+    color: black !important;
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.dropbutton button .btn:focus{
+    background-color: white !important;
+    color: black;
+    border: 5px solid white;
+
+} 
+
+
+
+
+
+
+/* .dropbutton button .btn:active{
+    background-color: white !important;
+    color: black;
+    border: 5px solid white;
+
+}  */
+
+/* .dropbutton button .btn-primary,.btn:hover{
+    background-color: white !important;
+    color: black;
+    border: 5px solid white;
+    border-color: white;
+    
+
+}
+.dropbutton button .btn-primary .btn:hover{
+    background-color: white !important;
+    border-color: white;
+}
+
+.dropbutton button btn-primary .btn:focus{
+    background-color: white !important;
+    border-color: white !important;
+} */

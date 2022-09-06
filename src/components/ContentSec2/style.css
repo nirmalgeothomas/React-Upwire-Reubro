@@ -1,0 +1,57 @@
+.serv {
+    height: 80vh;
+    background: url(../../../public/assets/images/products/servicebg.jpg) !important;
+    background-size: cover;
+    background-color: #1281B0;
+    background-repeat:no-repeat;
+    
+}
+
+.container1{
+    border:1px solid white;
+    border-radius: 2rem;
+    width: 80%;
+    height: 75%;
+    border-top-style: hidden;
+}
+
+.left-div{
+    height: 100%;
+    border:none !important;
+    border-top-left-radius: 2rem;
+    border-top: 1px solid white !important;
+    width: 40%;
+}
+
+.right-div{
+    height: 100%;
+    border:none !important;
+    border-top-right-radius: 2rem;
+    border-top: 1px solid white !important;
+    width: 40%;
+}
+
+.mid-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:none !important;
+    width: 20%;
+    position: relative;
+}
+
+.service-header{
+    height: 15%;
+}
+
+.service-title{
+    position: absolute;
+    bottom: 1%;
+    color: white;
+}
+.service-header .p{
+    height: 15%;
+    position: absolute;
+    bottom: 1%;
+    color: white;
+}

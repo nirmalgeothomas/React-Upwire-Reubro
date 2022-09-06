@@ -1,0 +1,18 @@
+.main-footer {
+    color: white;
+    background-color: #393939;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  #small {
+    font-size: small;
+  }
+
+  .fa-sm{
+    font-size: .875em;
+    line-height: .07143em;
+    vertical-align: 0.05357em;
+  }
